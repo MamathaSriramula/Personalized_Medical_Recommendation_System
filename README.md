@@ -47,8 +47,7 @@ Submit a pull request
 📩 Contact & Support
 If you have any questions or suggestions, feel free to reach out!
 
-📧 Email: vishalponna2020@gmail.com
-🐦 Twitter: @ponnavishal
+📧 Email: mamathasriramula9@gmail.com
 
 🌟 Take Charge of Your Health Today!
 Your well-being matters. With this system, you can get instant medical insights and make informed health decisions. 🚑💡
