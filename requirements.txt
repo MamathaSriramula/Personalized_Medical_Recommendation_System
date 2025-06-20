@@ -1,0 +1,15 @@
+numpy  
+pandas  
+scikit-learn  
+flask  
+gunicorn  
+joblib  
+werkzeug  
+flask-cors  
+index.html
+about.html
+blog.html
+contact.html
+img.png
+svc.pkl
+templates
